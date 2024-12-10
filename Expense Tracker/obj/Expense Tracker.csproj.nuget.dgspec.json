@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Furkan Elmalı\\source\\repos\\Expense Tracker\\Expense Tracker\\Expense Tracker.csproj": {}
+    "C:\\Users\\Furkan Elmalı\\Documents\\GitHub\\ExpensTracker\\Expense Tracker\\Expense Tracker.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Furkan Elmalı\\source\\repos\\Expense Tracker\\Expense Tracker\\Expense Tracker.csproj": {
+    "C:\\Users\\Furkan Elmalı\\Documents\\GitHub\\ExpensTracker\\Expense Tracker\\Expense Tracker.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Furkan Elmalı\\source\\repos\\Expense Tracker\\Expense Tracker\\Expense Tracker.csproj",
+        "projectUniqueName": "C:\\Users\\Furkan Elmalı\\Documents\\GitHub\\ExpensTracker\\Expense Tracker\\Expense Tracker.csproj",
         "projectName": "Expense Tracker",
-        "projectPath": "C:\\Users\\Furkan Elmalı\\source\\repos\\Expense Tracker\\Expense Tracker\\Expense Tracker.csproj",
+        "projectPath": "C:\\Users\\Furkan Elmalı\\Documents\\GitHub\\ExpensTracker\\Expense Tracker\\Expense Tracker.csproj",
         "packagesPath": "C:\\Users\\Furkan Elmalı\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Furkan Elmalı\\source\\repos\\Expense Tracker\\Expense Tracker\\obj\\",
+        "outputPath": "C:\\Users\\Furkan Elmalı\\Documents\\GitHub\\ExpensTracker\\Expense Tracker\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Furkan Elmalı\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,6 +51,12 @@
               "version": "[9.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[9.0.0, )"
             }
