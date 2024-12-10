@@ -283,3 +283,6 @@ C:\Users\Furkan Elmalı\Documents\GitHub\ExpensTracker\Expense Tracker\bin\Debug
 C:\Users\Furkan Elmalı\Documents\GitHub\ExpensTracker\Expense Tracker\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\Furkan Elmalı\Documents\GitHub\ExpensTracker\Expense Tracker\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Furkan Elmalı\Documents\GitHub\ExpensTracker\Expense Tracker\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\Furkan Elmalı\Documents\GitHub\ExpensTracker\Expense Tracker\bin\Debug\net8.0\Syncfusion.EJ2.dll
+C:\Users\Furkan Elmalı\Documents\GitHub\ExpensTracker\Expense Tracker\bin\Debug\net8.0\Syncfusion.Licensing.dll
+C:\Users\Furkan Elmalı\Documents\GitHub\ExpensTracker\Expense Tracker\obj\Debug\net8.0\Expense Tracker.MvcApplicationPartsAssemblyInfo.cs
