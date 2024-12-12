@@ -252,7 +252,7 @@ img.profile-pic {
 
 /*SideBar*/
 #sidebar {
-    background-color: #12161d;
+    background-color: #C0C0C0;
     border-right: 1px dashed rgba(75,82,85,0.24);
     padding: 10px 20px;
     overflow: hidden;
@@ -323,7 +323,7 @@ img.profile-pic {
 }
 
     .widget.summary > div:first-child {
-        background-color: #222b33;
+        background-color: #adb5bd;
         padding: 1rem;
         border-top-left-radius: 1rem;
         border-bottom-left-radius: 1rem;
