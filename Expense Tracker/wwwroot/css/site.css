@@ -29,6 +29,7 @@ body {
 }
 
 .main-content {
+    margin-left: 290px;
     overflow-y: auto;
     height: 92vh;
 }
@@ -251,7 +252,7 @@ img.profile-pic {
 
 /*SideBar*/
 #sidebar {
-    background-color: #C0C0C0;
+    background-color: #12161d;
     border-right: 1px dashed rgba(75,82,85,0.24);
     padding: 10px 20px;
     overflow: hidden;
@@ -314,7 +315,6 @@ img.profile-pic {
 #sidebar.e-close #sidebar-toggler:before {
     content: '\f101'
 }
-
 /*Widget*/
 .widget {
     border-radius: 1rem;
