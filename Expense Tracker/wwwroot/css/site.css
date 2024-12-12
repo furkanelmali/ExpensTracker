@@ -29,7 +29,6 @@ body {
 }
 
 .main-content {
-    margin-left: 290px;
     overflow-y: auto;
     height: 92vh;
 }
@@ -203,7 +202,7 @@ nav.navbar {
         }
 
 nav.navbar {
-    margin-left: 290px;
+    margin-left: 0px;
 }
 
 /*Profile Pic*/
